@@ -1,2 +1,13 @@
 # CIS-3120-Data-Analytics
-This is my first ever programming project I've done back in Dec 2017, for a Data Analytics class
+This is my first ever programming project I completed with my group back in Dec 2017, for a Data Analytics class.
+
+A [Kaggle Dataset](https://www.kaggle.com/sniperarrow/information-on-dental-magic-employees/data) was used for Data Analysis.
+Our goal was to analyze an employee HR dataset to find out which factors could best explain the employee's pay-rate.
+
+The following features have been implemented:
+
+- [x] Pandas, Matplotlib, and Seaborn API are imported
+- [x] Data has been transformed and restructured for linear regression
+- [x] Heatmap implemented for variable correlations
+- [x] Various plots are shown for relevant predictor variables
+- [x] Linear regression is performed
