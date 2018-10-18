@@ -14,4 +14,4 @@ The following features have been implemented:
 
 Clickables: 
 - [Code containing data visualization charts](https://github.com/matthewbrod01/CIS-3120-Data-Analytics/blob/master/HR%20Analytics%20Project.ipynb)
-- [PDF Report](https://github.com/matthewbrod01/CIS-3120-Data-Analytics/blob/master/Project%20report_23281221_attempt_2017-12-10-20-55-42_Matthew%20_Rodriguez_Dilpreet_Singh_Tony_Wang_Zachary_Nabavian.pdf)
+- [PDF Report](https://github.com/matthewbrod01/CIS-3120-Data-Analytics/blob/master/Project%20Report.pdf)
