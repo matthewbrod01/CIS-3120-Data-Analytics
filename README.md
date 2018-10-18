@@ -11,3 +11,5 @@ The following features have been implemented:
 - [x] Heatmap implemented for variable correlations
 - [x] Various plots are shown for relevant predictor variables
 - [x] Linear regression is performed
+
+Clickable: [Code containing data visualization charts](https://github.com/matthewbrod01/CIS-3120-Data-Analytics/blob/master/HR%20Analytics%20Project.ipynb)
